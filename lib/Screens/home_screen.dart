@@ -53,7 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 const CustomButton(
                   title: "ABOUT US",
                   height: 66,
-                  margin: EdgeInsets.symmetric(horizontal: 10),
+                  margin: EdgeInsets.symmetric(horizontal: 10, vertical: 15),
                   bottomLine: 5,
                 ),
               ],
